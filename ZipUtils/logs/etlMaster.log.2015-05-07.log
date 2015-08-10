@@ -1,0 +1,388 @@
+[20150507 14:34:33 INFO ] cn.com.zcha.zip.ZipUtil - IE9-Windows6.1-KB3038314-x64.msu -- 已经压缩了 
+[20150507 14:34:33 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3042553-x64.msu -- 已经压缩了 
+[20150507 14:34:33 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045685-x64.msu -- 已经压缩了 
+[20150507 14:34:34 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045999-x64.msu -- 已经压缩了 
+[20150507 14:34:34 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046269-x64.msu -- 已经压缩了 
+[20150507 14:34:34 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046306-x64.msu -- 已经压缩了 
+[20150507 14:34:34 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu -- 已经压缩了 
+[20150507 14:34:34 INFO ] cn.com.zcha.zip.ZipUtil - Binary1 -- 已经压缩了 
+[20150507 14:34:36 INFO ] cn.com.zcha.zip.ZipUtil - Windows-KB890830-x64-V5.23.exe -- 已经压缩了 
+[20150507 14:34:36 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.exe -- 已经压缩了 
+[20150507 14:34:37 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.txt -- 已经压缩了 
+[20150507 14:34:38 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.txt.zip -- 已经压缩了 
+[20150507 14:34:38 INFO ] cn.com.zcha.zip.ZipUtil - filelist.dat -- 已经压缩了 
+[20150507 14:34:38 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu.zip -- 已经压缩了 
+[20150507 14:38:13 INFO ] cn.com.zcha.zip.ZipUtil - IE9-Windows6.1-KB3038314-x64.msu -- 已经压缩了 
+[20150507 14:38:13 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3042553-x64.msu -- 已经压缩了 
+[20150507 14:38:13 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045685-x64.msu -- 已经压缩了 
+[20150507 14:38:14 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045999-x64.msu -- 已经压缩了 
+[20150507 14:38:14 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046269-x64.msu -- 已经压缩了 
+[20150507 14:38:14 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046306-x64.msu -- 已经压缩了 
+[20150507 14:38:14 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu -- 已经压缩了 
+[20150507 14:38:14 INFO ] cn.com.zcha.zip.ZipUtil - Binary1 -- 已经压缩了 
+[20150507 14:38:16 INFO ] cn.com.zcha.zip.ZipUtil - Windows-KB890830-x64-V5.23.exe -- 已经压缩了 
+[20150507 14:38:16 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.exe -- 已经压缩了 
+[20150507 14:38:17 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.txt -- 已经压缩了 
+[20150507 14:38:17 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.txt.zip -- 已经压缩了 
+[20150507 14:38:17 INFO ] cn.com.zcha.zip.ZipUtil - filelist.dat -- 已经压缩了 
+[20150507 14:38:17 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu.zip -- 已经压缩了 
+[20150507 14:43:40 INFO ] cn.com.zcha.zip.ZipUtil - IE9-Windows6.1-KB3038314-x64.msu -- 已经压缩了 
+[20150507 14:43:40 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3042553-x64.msu -- 已经压缩了 
+[20150507 14:43:40 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045685-x64.msu -- 已经压缩了 
+[20150507 14:43:40 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045999-x64.msu -- 已经压缩了 
+[20150507 14:43:40 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046269-x64.msu -- 已经压缩了 
+[20150507 14:43:40 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046306-x64.msu -- 已经压缩了 
+[20150507 14:43:41 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu -- 已经压缩了 
+[20150507 14:43:41 INFO ] cn.com.zcha.zip.ZipUtil - Binary1 -- 已经压缩了 
+[20150507 14:43:43 INFO ] cn.com.zcha.zip.ZipUtil - Windows-KB890830-x64-V5.23.exe -- 已经压缩了 
+[20150507 14:43:43 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.exe -- 已经压缩了 
+[20150507 14:43:44 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.txt -- 已经压缩了 
+[20150507 14:43:44 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.txt.zip -- 已经压缩了 
+[20150507 14:43:44 INFO ] cn.com.zcha.zip.ZipUtil - filelist.dat -- 已经压缩了 
+[20150507 14:43:44 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu.zip -- 已经压缩了 
+[20150507 14:44:59 INFO ] cn.com.zcha.zip.ZipUtil - IE9-Windows6.1-KB3038314-x64.msu -- 已经压缩了 
+[20150507 14:44:59 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3042553-x64.msu -- 已经压缩了 
+[20150507 14:44:59 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045685-x64.msu -- 已经压缩了 
+[20150507 14:45:00 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045999-x64.msu -- 已经压缩了 
+[20150507 14:45:00 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046269-x64.msu -- 已经压缩了 
+[20150507 14:45:00 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046306-x64.msu -- 已经压缩了 
+[20150507 14:45:00 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu -- 已经压缩了 
+[20150507 14:45:00 INFO ] cn.com.zcha.zip.ZipUtil - Binary1 -- 已经压缩了 
+[20150507 14:45:02 INFO ] cn.com.zcha.zip.ZipUtil - Windows-KB890830-x64-V5.23.exe -- 已经压缩了 
+[20150507 14:45:02 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.exe -- 已经压缩了 
+[20150507 14:45:03 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.txt -- 已经压缩了 
+[20150507 14:45:03 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.txt.zip -- 已经压缩了 
+[20150507 14:45:03 INFO ] cn.com.zcha.zip.ZipUtil - filelist.dat -- 已经压缩了 
+[20150507 14:45:03 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu.zip -- 已经压缩了 
+[20150507 14:45:44 INFO ] cn.com.zcha.zip.ZipUtil - IE9-Windows6.1-KB3038314-x64.msu -- 已经压缩了 
+[20150507 14:45:44 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3042553-x64.msu -- 已经压缩了 
+[20150507 14:45:44 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045685-x64.msu -- 已经压缩了 
+[20150507 14:45:44 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045999-x64.msu -- 已经压缩了 
+[20150507 14:45:44 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046269-x64.msu -- 已经压缩了 
+[20150507 14:45:44 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046306-x64.msu -- 已经压缩了 
+[20150507 14:45:44 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu -- 已经压缩了 
+[20150507 14:45:44 INFO ] cn.com.zcha.zip.ZipUtil - Binary1 -- 已经压缩了 
+[20150507 14:45:46 INFO ] cn.com.zcha.zip.ZipUtil - Windows-KB890830-x64-V5.23.exe -- 已经压缩了 
+[20150507 14:45:47 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.exe -- 已经压缩了 
+[20150507 14:45:48 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.txt -- 已经压缩了 
+[20150507 14:45:48 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.txt.zip -- 已经压缩了 
+[20150507 14:45:48 INFO ] cn.com.zcha.zip.ZipUtil - filelist.dat -- 已经压缩了 
+[20150507 14:45:48 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu.zip -- 已经压缩了 
+[20150507 14:50:16 INFO ] cn.com.zcha.zip.ZipUtil - IE9-Windows6.1-KB3038314-x64.msu -- 已经压缩了 
+[20150507 14:50:16 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3042553-x64.msu -- 已经压缩了 
+[20150507 14:50:16 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045685-x64.msu -- 已经压缩了 
+[20150507 14:50:17 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045999-x64.msu -- 已经压缩了 
+[20150507 14:50:17 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046269-x64.msu -- 已经压缩了 
+[20150507 14:50:17 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046306-x64.msu -- 已经压缩了 
+[20150507 14:50:17 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu -- 已经压缩了 
+[20150507 14:50:17 INFO ] cn.com.zcha.zip.ZipUtil - Binary1 -- 已经压缩了 
+[20150507 14:50:19 INFO ] cn.com.zcha.zip.ZipUtil - Windows-KB890830-x64-V5.23.exe -- 已经压缩了 
+[20150507 14:50:20 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.exe -- 已经压缩了 
+[20150507 14:50:20 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.txt -- 已经压缩了 
+[20150507 14:50:21 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.txt.zip -- 已经压缩了 
+[20150507 14:50:21 INFO ] cn.com.zcha.zip.ZipUtil - filelist.dat -- 已经压缩了 
+[20150507 14:50:21 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu.zip -- 已经压缩了 
+[20150507 15:06:07 INFO ] cn.com.zcha.zip.ZipUtil - IE9-Windows6.1-KB3038314-x64.msu -- 已经压缩了 
+[20150507 15:06:07 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3042553-x64.msu -- 已经压缩了 
+[20150507 15:06:07 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045685-x64.msu -- 已经压缩了 
+[20150507 15:06:07 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045999-x64.msu -- 已经压缩了 
+[20150507 15:06:07 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046269-x64.msu -- 已经压缩了 
+[20150507 15:06:07 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046306-x64.msu -- 已经压缩了 
+[20150507 15:06:07 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu -- 已经压缩了 
+[20150507 15:06:07 INFO ] cn.com.zcha.zip.ZipUtil - Binary1 -- 已经压缩了 
+[20150507 15:06:07 INFO ] cn.com.zcha.zip.ZipUtil - Windows-KB890830-x64-V5.23.exe -- 已经压缩了 
+[20150507 15:06:07 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.exe -- 已经压缩了 
+[20150507 15:06:07 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.txt -- 已经压缩了 
+[20150507 15:06:07 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.txt.zip -- 已经压缩了 
+[20150507 15:06:07 INFO ] cn.com.zcha.zip.ZipUtil - filelist.dat -- 已经压缩了 
+[20150507 15:06:07 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu.zip -- 已经压缩了 
+[20150507 15:07:44 INFO ] cn.com.zcha.zip.ZipUtil - IE9-Windows6.1-KB3038314-x64.msu -- 已经压缩了 
+[20150507 15:07:44 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3042553-x64.msu -- 已经压缩了 
+[20150507 15:07:44 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045685-x64.msu -- 已经压缩了 
+[20150507 15:07:44 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045999-x64.msu -- 已经压缩了 
+[20150507 15:07:44 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046269-x64.msu -- 已经压缩了 
+[20150507 15:07:44 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046306-x64.msu -- 已经压缩了 
+[20150507 15:07:44 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu -- 已经压缩了 
+[20150507 15:07:44 INFO ] cn.com.zcha.zip.ZipUtil - Binary1 -- 已经压缩了 
+[20150507 15:07:44 INFO ] cn.com.zcha.zip.ZipUtil - Windows-KB890830-x64-V5.23.exe -- 已经压缩了 
+[20150507 15:07:44 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.exe -- 已经压缩了 
+[20150507 15:07:44 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.txt -- 已经压缩了 
+[20150507 15:07:44 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.txt.zip -- 已经压缩了 
+[20150507 15:07:44 INFO ] cn.com.zcha.zip.ZipUtil - filelist.dat -- 已经压缩了 
+[20150507 15:07:44 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu.zip -- 已经压缩了 
+[20150507 15:08:32 INFO ] cn.com.zcha.zip.ZipUtil - IE9-Windows6.1-KB3038314-x64.msu -- 已经压缩了 
+[20150507 15:08:32 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3042553-x64.msu -- 已经压缩了 
+[20150507 15:08:32 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045685-x64.msu -- 已经压缩了 
+[20150507 15:08:33 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045999-x64.msu -- 已经压缩了 
+[20150507 15:08:33 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046269-x64.msu -- 已经压缩了 
+[20150507 15:08:33 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046306-x64.msu -- 已经压缩了 
+[20150507 15:08:33 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu -- 已经压缩了 
+[20150507 15:08:33 INFO ] cn.com.zcha.zip.ZipUtil - Binary1 -- 已经压缩了 
+[20150507 15:08:35 INFO ] cn.com.zcha.zip.ZipUtil - Windows-KB890830-x64-V5.23.exe -- 已经压缩了 
+[20150507 15:08:36 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.exe -- 已经压缩了 
+[20150507 15:08:36 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.txt -- 已经压缩了 
+[20150507 15:08:37 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.txt.zip -- 已经压缩了 
+[20150507 15:08:37 INFO ] cn.com.zcha.zip.ZipUtil - filelist.dat -- 已经压缩了 
+[20150507 15:08:37 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu.zip -- 已经压缩了 
+[20150507 15:26:41 INFO ] cn.com.zcha.zip.ZipUtil - IE9-Windows6.1-KB3038314-x64.msu -- 已经压缩了 
+[20150507 15:26:41 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3042553-x64.msu -- 已经压缩了 
+[20150507 15:26:41 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045685-x64.msu -- 已经压缩了 
+[20150507 15:26:42 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045999-x64.msu -- 已经压缩了 
+[20150507 15:26:42 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046269-x64.msu -- 已经压缩了 
+[20150507 15:26:42 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046306-x64.msu -- 已经压缩了 
+[20150507 15:26:42 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu -- 已经压缩了 
+[20150507 15:26:42 INFO ] cn.com.zcha.zip.ZipUtil - Binary1 -- 已经压缩了 
+[20150507 15:26:44 INFO ] cn.com.zcha.zip.ZipUtil - Windows-KB890830-x64-V5.23.exe -- 已经压缩了 
+[20150507 15:26:45 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.exe -- 已经压缩了 
+[20150507 15:26:45 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.txt -- 已经压缩了 
+[20150507 15:26:46 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.txt.zip -- 已经压缩了 
+[20150507 15:26:46 INFO ] cn.com.zcha.zip.ZipUtil - filelist.dat -- 已经压缩了 
+[20150507 15:26:46 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu.zip -- 已经压缩了 
+[20150507 15:45:24 INFO ] cn.com.zcha.zip.ZipUtil - IE9-Windows6.1-KB3038314-x64.msu -- 已经压缩了 
+[20150507 15:45:24 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3042553-x64.msu -- 已经压缩了 
+[20150507 15:45:24 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045685-x64.msu -- 已经压缩了 
+[20150507 15:45:24 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045999-x64.msu -- 已经压缩了 
+[20150507 15:45:24 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046269-x64.msu -- 已经压缩了 
+[20150507 15:45:24 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046306-x64.msu -- 已经压缩了 
+[20150507 15:45:25 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu -- 已经压缩了 
+[20150507 15:45:25 INFO ] cn.com.zcha.zip.ZipUtil - Binary1 -- 已经压缩了 
+[20150507 15:45:27 INFO ] cn.com.zcha.zip.ZipUtil - Windows-KB890830-x64-V5.23.exe -- 已经压缩了 
+[20150507 15:45:27 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.exe -- 已经压缩了 
+[20150507 15:45:28 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.txt -- 已经压缩了 
+[20150507 15:45:28 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.txt.zip -- 已经压缩了 
+[20150507 15:45:28 INFO ] cn.com.zcha.zip.ZipUtil - filelist.dat -- 已经压缩了 
+[20150507 15:45:28 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu.zip -- 已经压缩了 
+[20150507 15:46:22 INFO ] cn.com.zcha.zip.ZipUtil - IE9-Windows6.1-KB3038314-x64.msu -- 已经压缩了 
+[20150507 15:46:22 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3042553-x64.msu -- 已经压缩了 
+[20150507 15:46:22 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045685-x64.msu -- 已经压缩了 
+[20150507 15:46:23 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045999-x64.msu -- 已经压缩了 
+[20150507 15:46:23 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046269-x64.msu -- 已经压缩了 
+[20150507 15:46:23 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046306-x64.msu -- 已经压缩了 
+[20150507 15:46:23 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu -- 已经压缩了 
+[20150507 15:46:23 INFO ] cn.com.zcha.zip.ZipUtil - Binary1 -- 已经压缩了 
+[20150507 15:46:25 INFO ] cn.com.zcha.zip.ZipUtil - Windows-KB890830-x64-V5.23.exe -- 已经压缩了 
+[20150507 15:46:25 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.exe -- 已经压缩了 
+[20150507 15:46:26 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.txt -- 已经压缩了 
+[20150507 15:46:27 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.txt.zip -- 已经压缩了 
+[20150507 15:46:27 INFO ] cn.com.zcha.zip.ZipUtil - filelist.dat -- 已经压缩了 
+[20150507 15:46:27 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu.zip -- 已经压缩了 
+[20150507 15:47:55 INFO ] cn.com.zcha.zip.ZipUtil - IE9-Windows6.1-KB3038314-x64.msu -- 已经压缩了 
+[20150507 15:47:55 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3042553-x64.msu -- 已经压缩了 
+[20150507 15:47:55 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045685-x64.msu -- 已经压缩了 
+[20150507 15:47:56 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045999-x64.msu -- 已经压缩了 
+[20150507 15:47:56 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046269-x64.msu -- 已经压缩了 
+[20150507 15:47:56 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046306-x64.msu -- 已经压缩了 
+[20150507 15:47:56 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu -- 已经压缩了 
+[20150507 15:47:56 INFO ] cn.com.zcha.zip.ZipUtil - Binary1 -- 已经压缩了 
+[20150507 15:47:58 INFO ] cn.com.zcha.zip.ZipUtil - Windows-KB890830-x64-V5.23.exe -- 已经压缩了 
+[20150507 15:47:58 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.exe -- 已经压缩了 
+[20150507 15:47:59 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.txt -- 已经压缩了 
+[20150507 15:47:59 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.txt.zip -- 已经压缩了 
+[20150507 15:47:59 INFO ] cn.com.zcha.zip.ZipUtil - filelist.dat -- 已经压缩了 
+[20150507 15:48:00 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu.zip -- 已经压缩了 
+[20150507 17:04:59 INFO ] cn.com.zcha.zip.ZipUtil - IE9-Windows6.1-KB3038314-x64.msu -- 已经压缩了 
+[20150507 17:04:59 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3042553-x64.msu -- 已经压缩了 
+[20150507 17:04:59 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045685-x64.msu -- 已经压缩了 
+[20150507 17:04:59 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045999-x64.msu -- 已经压缩了 
+[20150507 17:04:59 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046269-x64.msu -- 已经压缩了 
+[20150507 17:04:59 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046306-x64.msu -- 已经压缩了 
+[20150507 17:04:59 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu -- 已经压缩了 
+[20150507 17:04:59 INFO ] cn.com.zcha.zip.ZipUtil - Binary1 -- 已经压缩了 
+[20150507 17:04:59 INFO ] cn.com.zcha.zip.ZipUtil - Windows-KB890830-x64-V5.23.exe -- 已经压缩了 
+[20150507 17:04:59 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.exe -- 已经压缩了 
+[20150507 17:04:59 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.txt -- 已经压缩了 
+[20150507 17:04:59 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.txt.zip -- 已经压缩了 
+[20150507 17:04:59 INFO ] cn.com.zcha.zip.ZipUtil - filelist.dat -- 已经压缩了 
+[20150507 17:04:59 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu.zip -- 已经压缩了 
+[20150507 17:13:33 INFO ] cn.com.zcha.zip.ZipUtil - IE9-Windows6.1-KB3038314-x64.msu文件校验：891131415
+[20150507 17:13:33 INFO ] cn.com.zcha.zip.ZipUtil - IE9-Windows6.1-KB3038314-x64.msu -- 已经压缩了 
+[20150507 17:13:33 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3042553-x64.msu文件校验：20649772
+[20150507 17:13:33 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3042553-x64.msu -- 已经压缩了 
+[20150507 17:13:33 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045685-x64.msu文件校验：2412266669
+[20150507 17:13:33 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045685-x64.msu -- 已经压缩了 
+[20150507 17:13:34 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045999-x64.msu文件校验：3379785023
+[20150507 17:13:34 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045999-x64.msu -- 已经压缩了 
+[20150507 17:13:34 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046269-x64.msu文件校验：223219404
+[20150507 17:13:34 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046269-x64.msu -- 已经压缩了 
+[20150507 17:13:34 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046306-x64.msu文件校验：3713162373
+[20150507 17:13:34 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046306-x64.msu -- 已经压缩了 
+[20150507 17:13:34 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu文件校验：1552409285
+[20150507 17:13:34 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu -- 已经压缩了 
+[20150507 17:13:34 INFO ] cn.com.zcha.zip.ZipUtil - Binary1文件校验：2700173927
+[20150507 17:13:34 INFO ] cn.com.zcha.zip.ZipUtil - Binary1 -- 已经压缩了 
+[20150507 17:13:36 INFO ] cn.com.zcha.zip.ZipUtil - 文件\Windows-KB890830-x64-V5.23.exe文件校验：1144536167
+[20150507 17:13:36 INFO ] cn.com.zcha.zip.ZipUtil - Windows-KB890830-x64-V5.23.exe -- 已经压缩了 
+[20150507 17:13:37 INFO ] cn.com.zcha.zip.ZipUtil - 文件\NDP40-KB3037578-x64.exe文件校验：3102228206
+[20150507 17:13:37 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.exe -- 已经压缩了 
+[20150507 17:13:37 INFO ] cn.com.zcha.zip.ZipUtil - 文件\NDP40-KB3037578-x64.txt文件校验：1117250244
+[20150507 17:13:37 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.txt -- 已经压缩了 
+[20150507 17:13:38 INFO ] cn.com.zcha.zip.ZipUtil - 文件\NDP40-KB3037578-x64.txt.zip文件校验：2387950841
+[20150507 17:13:38 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.txt.zip -- 已经压缩了 
+[20150507 17:13:38 INFO ] cn.com.zcha.zip.ZipUtil - filelist.dat文件校验：2809282097
+[20150507 17:13:38 INFO ] cn.com.zcha.zip.ZipUtil - filelist.dat -- 已经压缩了 
+[20150507 17:13:38 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu.zip文件校验：2421958221
+[20150507 17:13:38 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu.zip -- 已经压缩了 
+[20150507 17:17:35 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu.zip 文件校验：2643701971
+[20150507 17:17:35 INFO ] cn.com.zcha.zip.ZipUtil - filelist.dat 文件校验：373626864
+[20150507 17:17:35 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.txt.zip 文件校验：1224423296
+[20150507 17:17:35 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.txt 文件校验：2171859748
+[20150507 17:17:36 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.exe 文件校验：3757143446
+[20150507 17:17:36 INFO ] cn.com.zcha.zip.ZipUtil - Windows-KB890830-x64-V5.23.exe 文件校验：4059424456
+[20150507 17:17:36 INFO ] cn.com.zcha.zip.ZipUtil - IE9-Windows6.1-KB3038314-x64.msu 文件校验：4006875407
+[20150507 17:17:36 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3042553-x64.msu 文件校验：4127773955
+[20150507 17:17:36 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045685-x64.msu 文件校验：2242187717
+[20150507 17:17:36 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045999-x64.msu 文件校验：2568216919
+[20150507 17:17:36 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046269-x64.msu 文件校验：769338903
+[20150507 17:17:36 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046306-x64.msu 文件校验：169841236
+[20150507 17:17:36 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu 文件校验：71758532
+[20150507 17:17:36 INFO ] cn.com.zcha.zip.ZipUtil - Binary1 文件校验：2522229570
+[20150507 17:23:04 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu.zip 文件校验：2643701971
+[20150507 17:23:04 INFO ] cn.com.zcha.zip.ZipUtil - filelist.dat 文件校验：373626864
+[20150507 17:23:04 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.txt.zip 文件校验：1224423296
+[20150507 17:23:04 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.txt 文件校验：2171859748
+[20150507 17:23:04 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.exe 文件校验：3757143446
+[20150507 17:23:04 INFO ] cn.com.zcha.zip.ZipUtil - Windows-KB890830-x64-V5.23.exe 文件校验：4059424456
+[20150507 17:23:05 INFO ] cn.com.zcha.zip.ZipUtil - IE9-Windows6.1-KB3038314-x64.msu 文件校验：4006875407
+[20150507 17:23:05 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3042553-x64.msu 文件校验：4127773955
+[20150507 17:23:05 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045685-x64.msu 文件校验：2242187717
+[20150507 17:23:05 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045999-x64.msu 文件校验：2568216919
+[20150507 17:23:05 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046269-x64.msu 文件校验：769338903
+[20150507 17:23:05 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046306-x64.msu 文件校验：169841236
+[20150507 17:23:05 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu 文件校验：71758532
+[20150507 17:23:05 INFO ] cn.com.zcha.zip.ZipUtil - Binary1 文件校验：2522229570
+[20150507 17:37:38 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu.zip 文件校验：2643701971
+[20150507 17:37:38 INFO ] cn.com.zcha.zip.ZipUtil - filelist.dat 文件校验：373626864
+[20150507 17:37:38 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.txt.zip 文件校验：1224423296
+[20150507 17:37:38 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.txt 文件校验：2171859748
+[20150507 17:37:38 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.exe 文件校验：3757143446
+[20150507 17:37:39 INFO ] cn.com.zcha.zip.ZipUtil - Windows-KB890830-x64-V5.23.exe 文件校验：4059424456
+[20150507 17:37:39 INFO ] cn.com.zcha.zip.ZipUtil - IE9-Windows6.1-KB3038314-x64.msu 文件校验：4006875407
+[20150507 17:37:39 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3042553-x64.msu 文件校验：4127773955
+[20150507 17:37:39 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045685-x64.msu 文件校验：2242187717
+[20150507 17:37:39 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045999-x64.msu 文件校验：2568216919
+[20150507 17:37:39 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046269-x64.msu 文件校验：769338903
+[20150507 17:37:39 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046306-x64.msu 文件校验：169841236
+[20150507 17:37:39 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu 文件校验：71758532
+[20150507 17:37:39 INFO ] cn.com.zcha.zip.ZipUtil - Binary1 文件校验：2522229570
+[20150507 17:53:53 INFO ] cn.com.zcha.zip.ZipUtil - IE9-Windows6.1-KB3038314-x64.msu文件校验：1317334319
+[20150507 17:53:53 INFO ] cn.com.zcha.zip.ZipUtil - IE9-Windows6.1-KB3038314-x64.msu  这是由inputStream ----文件校验：4006875407
+[20150507 17:53:53 INFO ] cn.com.zcha.zip.ZipUtil - IE9-Windows6.1-KB3038314-x64.msu -- 已经压缩了 
+[20150507 17:53:54 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3042553-x64.msu文件校验：3591863047
+[20150507 17:53:54 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3042553-x64.msu  这是由inputStream ----文件校验：4127773955
+[20150507 17:53:54 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3042553-x64.msu -- 已经压缩了 
+[20150507 17:53:54 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045685-x64.msu文件校验：240368731
+[20150507 17:53:54 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045685-x64.msu  这是由inputStream ----文件校验：2242187717
+[20150507 17:53:54 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045685-x64.msu -- 已经压缩了 
+[20150507 17:53:54 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045999-x64.msu文件校验：2090677407
+[20150507 17:53:54 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045999-x64.msu  这是由inputStream ----文件校验：2568216919
+[20150507 17:53:54 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045999-x64.msu -- 已经压缩了 
+[20150507 17:53:54 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046269-x64.msu文件校验：789755378
+[20150507 17:53:54 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046269-x64.msu  这是由inputStream ----文件校验：769338903
+[20150507 17:53:54 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046269-x64.msu -- 已经压缩了 
+[20150507 17:53:54 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046306-x64.msu文件校验：270844921
+[20150507 17:53:54 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046306-x64.msu  这是由inputStream ----文件校验：169841236
+[20150507 17:53:54 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046306-x64.msu -- 已经压缩了 
+[20150507 17:53:54 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu文件校验：3503698187
+[20150507 17:53:54 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu  这是由inputStream ----文件校验：71758532
+[20150507 17:53:54 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu -- 已经压缩了 
+[20150507 17:53:54 INFO ] cn.com.zcha.zip.ZipUtil - Binary1文件校验：2131537442
+[20150507 17:53:54 INFO ] cn.com.zcha.zip.ZipUtil - Binary1  这是由inputStream ----文件校验：2522229570
+[20150507 17:53:54 INFO ] cn.com.zcha.zip.ZipUtil - Binary1 -- 已经压缩了 
+[20150507 17:53:56 INFO ] cn.com.zcha.zip.ZipUtil - 文件\Windows-KB890830-x64-V5.23.exe文件校验：1837199341
+[20150507 17:53:56 INFO ] cn.com.zcha.zip.ZipUtil - 文件\Windows-KB890830-x64-V5.23.exe  这是由inputStream ----文件校验：4059424456
+[20150507 17:53:56 INFO ] cn.com.zcha.zip.ZipUtil - Windows-KB890830-x64-V5.23.exe -- 已经压缩了 
+[20150507 17:53:57 INFO ] cn.com.zcha.zip.ZipUtil - 文件\NDP40-KB3037578-x64.exe文件校验：2922050313
+[20150507 17:53:57 INFO ] cn.com.zcha.zip.ZipUtil - 文件\NDP40-KB3037578-x64.exe  这是由inputStream ----文件校验：3757143446
+[20150507 17:53:57 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.exe -- 已经压缩了 
+[20150507 17:53:57 INFO ] cn.com.zcha.zip.ZipUtil - 文件\NDP40-KB3037578-x64.txt文件校验：3703421834
+[20150507 17:53:57 INFO ] cn.com.zcha.zip.ZipUtil - 文件\NDP40-KB3037578-x64.txt  这是由inputStream ----文件校验：2171859748
+[20150507 17:53:57 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.txt -- 已经压缩了 
+[20150507 17:53:58 INFO ] cn.com.zcha.zip.ZipUtil - 文件\NDP40-KB3037578-x64.txt.zip文件校验：3646972692
+[20150507 17:53:58 INFO ] cn.com.zcha.zip.ZipUtil - 文件\NDP40-KB3037578-x64.txt.zip  这是由inputStream ----文件校验：1224423296
+[20150507 17:53:58 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.txt.zip -- 已经压缩了 
+[20150507 17:53:58 INFO ] cn.com.zcha.zip.ZipUtil - filelist.dat文件校验：184293749
+[20150507 17:53:58 INFO ] cn.com.zcha.zip.ZipUtil - filelist.dat  这是由inputStream ----文件校验：373626864
+[20150507 17:53:58 INFO ] cn.com.zcha.zip.ZipUtil - filelist.dat -- 已经压缩了 
+[20150507 17:53:58 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu.zip文件校验：4181985347
+[20150507 17:53:58 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu.zip  这是由inputStream ----文件校验：2643701971
+[20150507 17:53:58 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu.zip -- 已经压缩了 
+[20150507 17:57:16 INFO ] cn.com.zcha.zip.ZipUtil - IE9-Windows6.1-KB3038314-x64.msu  这是由inputStream ----文件校验：4006875407
+[20150507 17:57:16 INFO ] cn.com.zcha.zip.ZipUtil - IE9-Windows6.1-KB3038314-x64.msu -- 已经压缩了 
+[20150507 17:57:16 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3042553-x64.msu  这是由inputStream ----文件校验：4127773955
+[20150507 17:57:16 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3042553-x64.msu -- 已经压缩了 
+[20150507 17:57:16 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045685-x64.msu  这是由inputStream ----文件校验：2242187717
+[20150507 17:57:16 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045685-x64.msu -- 已经压缩了 
+[20150507 17:57:17 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045999-x64.msu  这是由inputStream ----文件校验：2568216919
+[20150507 17:57:17 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045999-x64.msu -- 已经压缩了 
+[20150507 17:57:17 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046269-x64.msu  这是由inputStream ----文件校验：769338903
+[20150507 17:57:17 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046269-x64.msu -- 已经压缩了 
+[20150507 17:57:17 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046306-x64.msu  这是由inputStream ----文件校验：169841236
+[20150507 17:57:17 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046306-x64.msu -- 已经压缩了 
+[20150507 17:57:17 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu  这是由inputStream ----文件校验：71758532
+[20150507 17:57:17 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu -- 已经压缩了 
+[20150507 17:57:17 INFO ] cn.com.zcha.zip.ZipUtil - Binary1  这是由inputStream ----文件校验：2522229570
+[20150507 17:57:17 INFO ] cn.com.zcha.zip.ZipUtil - Binary1 -- 已经压缩了 
+[20150507 17:57:19 INFO ] cn.com.zcha.zip.ZipUtil - 文件\Windows-KB890830-x64-V5.23.exe  这是由inputStream ----文件校验：4059424456
+[20150507 17:57:19 INFO ] cn.com.zcha.zip.ZipUtil - Windows-KB890830-x64-V5.23.exe -- 已经压缩了 
+[20150507 17:57:19 INFO ] cn.com.zcha.zip.ZipUtil - 文件\NDP40-KB3037578-x64.exe  这是由inputStream ----文件校验：3757143446
+[20150507 17:57:19 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.exe -- 已经压缩了 
+[20150507 17:57:20 INFO ] cn.com.zcha.zip.ZipUtil - 文件\NDP40-KB3037578-x64.txt  这是由inputStream ----文件校验：2171859748
+[20150507 17:57:20 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.txt -- 已经压缩了 
+[20150507 17:57:21 INFO ] cn.com.zcha.zip.ZipUtil - 文件\NDP40-KB3037578-x64.txt.zip  这是由inputStream ----文件校验：1224423296
+[20150507 17:57:21 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.txt.zip -- 已经压缩了 
+[20150507 17:57:21 INFO ] cn.com.zcha.zip.ZipUtil - filelist.dat  这是由inputStream ----文件校验：373626864
+[20150507 17:57:21 INFO ] cn.com.zcha.zip.ZipUtil - filelist.dat -- 已经压缩了 
+[20150507 17:57:21 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu.zip  这是由inputStream ----文件校验：2643701971
+[20150507 17:57:21 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu.zip -- 已经压缩了 
+[20150507 17:58:46 INFO ] cn.com.zcha.zip.ZipUtil - IE9-Windows6.1-KB3038314-x64.msu  ---文件校验：4006875407
+[20150507 17:58:46 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3042553-x64.msu  ---文件校验：4127773955
+[20150507 17:58:46 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045685-x64.msu  ---文件校验：2242187717
+[20150507 17:58:46 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045999-x64.msu  ---文件校验：2568216919
+[20150507 17:58:46 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046269-x64.msu  ---文件校验：769338903
+[20150507 17:58:46 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046306-x64.msu  ---文件校验：169841236
+[20150507 17:58:47 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu  ---文件校验：71758532
+[20150507 17:58:47 INFO ] cn.com.zcha.zip.ZipUtil - Binary1  ---文件校验：2522229570
+[20150507 17:58:49 INFO ] cn.com.zcha.zip.ZipUtil - 文件\Windows-KB890830-x64-V5.23.exe  ---文件校验：4059424456
+[20150507 17:58:49 INFO ] cn.com.zcha.zip.ZipUtil - 文件\NDP40-KB3037578-x64.exe  ---文件校验：3757143446
+[20150507 17:58:50 INFO ] cn.com.zcha.zip.ZipUtil - 文件\NDP40-KB3037578-x64.txt  ---文件校验：2171859748
+[20150507 17:58:50 INFO ] cn.com.zcha.zip.ZipUtil - 文件\NDP40-KB3037578-x64.txt.zip  ---文件校验：1224423296
+[20150507 17:58:50 INFO ] cn.com.zcha.zip.ZipUtil - filelist.dat  ---文件校验：373626864
+[20150507 17:58:50 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu.zip  ---文件校验：2643701971
+[20150507 18:00:11 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu.zip 文件校验：2643701971
+[20150507 18:00:11 INFO ] cn.com.zcha.zip.ZipUtil - filelist.dat 文件校验：373626864
+[20150507 18:00:11 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.txt.zip 文件校验：1224423296
+[20150507 18:00:11 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.txt 文件校验：2171859748
+[20150507 18:00:11 INFO ] cn.com.zcha.zip.ZipUtil - NDP40-KB3037578-x64.exe 文件校验：3757143446
+[20150507 18:00:12 INFO ] cn.com.zcha.zip.ZipUtil - Windows-KB890830-x64-V5.23.exe 文件校验：4059424456
+[20150507 18:00:12 INFO ] cn.com.zcha.zip.ZipUtil - IE9-Windows6.1-KB3038314-x64.msu 文件校验：4006875407
+[20150507 18:00:12 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3042553-x64.msu 文件校验：4127773955
+[20150507 18:00:12 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045685-x64.msu 文件校验：2242187717
+[20150507 18:00:12 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3045999-x64.msu 文件校验：2568216919
+[20150507 18:00:12 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046269-x64.msu 文件校验：769338903
+[20150507 18:00:12 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046306-x64.msu 文件校验：169841236
+[20150507 18:00:12 INFO ] cn.com.zcha.zip.ZipUtil - Windows6.1-KB3046482-x64.msu 文件校验：71758532
+[20150507 18:00:12 INFO ] cn.com.zcha.zip.ZipUtil - Binary1 文件校验：2522229570
+[20150507 18:35:54 INFO ] cn.com.zcha.zip.ZipUtil - S~8`3YUMR`X4B]}@A})E20R.jpg  ---文件校验：2851733579
+[20150507 18:35:54 INFO ] cn.com.zcha.zip.ZipUtil - ~72N@NYA$2XM7`KI6C%W9)I.jpg  ---文件校验：2494870747
+[20150507 18:35:54 INFO ] cn.com.zcha.zip.ZipUtil - PO~V}N)CC5S3)}}$9I[S}RL.jpg  ---文件校验：500762493
+[20150507 18:35:54 INFO ] cn.com.zcha.zip.ZipUtil - )RG}EBER~}NJKMJS(]FB7J5.jpg  ---文件校验：3350554763
+[20150507 18:35:54 INFO ] cn.com.zcha.zip.ZipUtil - YC7VDF{(Q4Q2~]8`5Y1]](T.jpg  ---文件校验：1038711293
+[20150507 18:35:54 INFO ] cn.com.zcha.zip.ZipUtil - }UWM3XIAZN~8ZF3]T`IML0Z.jpg  ---文件校验：2898592044
+[20150507 18:36:47 INFO ] cn.com.zcha.zip.ZipUtil - }UWM3XIAZN~8ZF3]T`IML0Z.jpg 文件校验：2898592044
+[20150507 18:36:47 INFO ] cn.com.zcha.zip.ZipUtil - YC7VDF{(Q4Q2~]8`5Y1]](T.jpg 文件校验：1038711293
+[20150507 18:36:47 INFO ] cn.com.zcha.zip.ZipUtil - )RG}EBER~}NJKMJS(]FB7J5.jpg 文件校验：3350554763
+[20150507 18:36:47 INFO ] cn.com.zcha.zip.ZipUtil - PO~V}N)CC5S3)}}$9I[S}RL.jpg 文件校验：500762493
+[20150507 18:36:47 INFO ] cn.com.zcha.zip.ZipUtil - ~72N@NYA$2XM7`KI6C%W9)I.jpg 文件校验：2494870747
+[20150507 18:36:47 INFO ] cn.com.zcha.zip.ZipUtil - S~8`3YUMR`X4B]}@A})E20R.jpg 文件校验：2851733579
+[20150507 18:37:15 INFO ] cn.com.zcha.zip.ZipUtil - S~8`3YUMR`X4B]}@A})E20R.jpg  ---文件校验：2851733579
+[20150507 18:37:15 INFO ] cn.com.zcha.zip.ZipUtil - ~72N@NYA$2XM7`KI6C%W9)I.jpg  ---文件校验：2494870747
+[20150507 18:37:15 INFO ] cn.com.zcha.zip.ZipUtil - PO~V}N)CC5S3)}}$9I[S}RL.jpg  ---文件校验：500762493
+[20150507 18:37:15 INFO ] cn.com.zcha.zip.ZipUtil - )RG}EBER~}NJKMJS(]FB7J5.jpg  ---文件校验：3350554763
+[20150507 18:37:15 INFO ] cn.com.zcha.zip.ZipUtil - YC7VDF{(Q4Q2~]8`5Y1]](T.jpg  ---文件校验：1038711293
+[20150507 18:37:15 INFO ] cn.com.zcha.zip.ZipUtil - }UWM3XIAZN~8ZF3]T`IML0Z.jpg  ---文件校验：2898592044
+[20150507 18:37:57 INFO ] cn.com.zcha.zip.ZipUtil - }UWM3XIAZN~8ZF3]T`IML0Z.jpg 文件校验：2898592044
+[20150507 18:37:58 INFO ] cn.com.zcha.zip.ZipUtil - YC7VDF{(Q4Q2~]8`5Y1]](T.jpg 文件校验：1038711293
+[20150507 18:37:58 INFO ] cn.com.zcha.zip.ZipUtil - )RG}EBER~}NJKMJS(]FB7J5.jpg 文件校验：3350554763
+[20150507 18:37:58 INFO ] cn.com.zcha.zip.ZipUtil - PO~V}N)CC5S3)}}$9I[S}RL.jpg 文件校验：500762493
+[20150507 18:37:58 INFO ] cn.com.zcha.zip.ZipUtil - ~72N@NYA$2XM7`KI6C%W9)I.jpg 文件校验：2494870747
+[20150507 18:37:58 INFO ] cn.com.zcha.zip.ZipUtil - S~8`3YUMR`X4B]}@A})E20R.jpg 文件校验：2851733579

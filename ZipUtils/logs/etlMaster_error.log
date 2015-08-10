@@ -1,0 +1,8 @@
+[0508 10:02:20 795 ERROR] cn.com.zcha.zip.ZipUtil - 压缩文件失败
+[0508 10:02:20 812 ERROR] cn.com.zcha.zip.ZipUtil - 压缩文件失败
+[0508 10:02:20 812 ERROR] cn.com.zcha.zip.ZipUtil - 压缩文件失败
+[0508 10:02:20 812 ERROR] cn.com.zcha.zip.ZipUtil - 压缩文件失败
+[0508 10:44:25 415 ERROR] cn.com.zcha.zip.ZipUtil - 源文件不存在
+[0508 10:45:26 427 ERROR] cn.com.zcha.zip.ZipUtil - 源文件不是压缩格式文件
+[0508 11:11:52 648 WARN ] cn.com.zcha.zip.ZipUtil - 文件不存在
+[0508 11:19:19 667 ERROR] cn.com.zcha.zip.ZipUtil - 压缩文件失败

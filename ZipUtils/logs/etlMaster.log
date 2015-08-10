@@ -1,0 +1,11 @@
+[20150518 12:09:57 INFO ] cn.com.zcha.zip.ZipUtil - 这是线程：main
+[20150518 12:09:57 INFO ] cn.com.zcha.zip.ZipUtil - 源文件路径：E:\workspace\ZipUtils\src\test.properties 目标路径：E:/workspace/ZipUtils/src/test.properties.bak/test.properties.zip
+[20150518 14:51:09 INFO ] cn.com.zcha.zip.ZipUtil - 数据压缩完成
+[20150518 15:05:55 INFO ] cn.com.zcha.zip.ZipUtil - 数据压缩完成
+[20150518 15:06:31 INFO ] cn.com.zcha.zip.ZipUtil - 解压缩完成
+[20150518 15:14:35 INFO ] cn.com.zcha.zip.ZipUtil - before compress : 2k
+[20150518 15:14:35 INFO ] cn.com.zcha.zip.ZipUtil - comp--1632523261
+[20150518 15:14:35 INFO ] cn.com.zcha.zip.ZipUtil - 数据压缩完成,after compress 
+[20150518 15:17:17 INFO ] cn.com.zcha.zip.ZipUtil - before decompress :0 k
+[20150518 15:17:17 INFO ] cn.com.zcha.zip.ZipUtil - decomp--3939412026
+[20150518 15:17:17 INFO ] cn.com.zcha.zip.ZipUtil - 解压缩完成,after decompress 2 k
